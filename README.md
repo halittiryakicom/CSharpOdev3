@@ -1,1 +1,1 @@
-# CSharpOdev3
+Program kodları CSharpOdev3 klasörünün altında program.cs dosyasında bulunuyor. Bu programda sayının 10dan büyük, küçük ve eşit durumlarını kontrol, girilen sayının çift ve tek olma durumlarını kontrol ettik.
